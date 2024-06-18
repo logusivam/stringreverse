@@ -37,7 +37,6 @@ Here is an example of how the program works:
 ```
 Enter a string: hello
 Reversed string: olleh
-
 ```
 
 ## Contributing
