@@ -22,7 +22,7 @@ Alternatively, you can directly copy the `stringreverse.cpp` file into your proj
 
 2. Navigate to the project directory and compile the code:
 ```
-g++ main.cpp -o stringreverse
+g++ stringreverse.cpp -o stringreverse
 ```
 
 3. Run the compiled executable:
