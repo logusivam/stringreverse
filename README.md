@@ -35,10 +35,16 @@ Follow the on-screen instructions to input a string and see the reversed output.
 ## Example
 Here is an example of how the program works:
 ```
+Enter a string: hello
+Reversed string: olleh
 
 ```
 
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
