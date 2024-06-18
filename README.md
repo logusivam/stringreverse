@@ -18,7 +18,7 @@ git clone https://github.com/logusivam/stringreverse.git
 Alternatively, you can directly copy the `stringreverse.cpp` file into your project directory.
 
 ## Usage
-1. Make sure you have a C++ compiler installed (e.g., g++, clang).
+1. Make sure you have a C++ compiler installed (e.g., g++, clang, devcpp).
 
 2. Navigate to the project directory and compile the code:
 ```
